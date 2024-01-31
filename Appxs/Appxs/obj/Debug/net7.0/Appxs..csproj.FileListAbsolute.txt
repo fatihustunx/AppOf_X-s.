@@ -1,0 +1,14 @@
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\bin\Debug\net7.0\Appxs..exe
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\bin\Debug\net7.0\Appxs..deps.json
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\bin\Debug\net7.0\Appxs..runtimeconfig.json
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\bin\Debug\net7.0\Appxs..dll
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\bin\Debug\net7.0\Appxs..pdb
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..AssemblyInfoInputs.cache
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..AssemblyInfo.cs
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..csproj.CoreCompileInputs.cache
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..dll
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\refint\Appxs..dll
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..pdb
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..genruntimeconfig.cache
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\ref\Appxs..dll
