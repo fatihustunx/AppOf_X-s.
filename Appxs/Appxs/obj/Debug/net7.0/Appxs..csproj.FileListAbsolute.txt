@@ -12,3 +12,4 @@ C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Deb
 C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..pdb
 C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..genruntimeconfig.cache
 C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\ref\Appxs..dll
+C:\Users\wista\OneDrive\Masaüstü\Engineers\Gitx's\.AppOfXs\Appxs\Appxs\obj\Debug\net7.0\Appxs..sourcelink.json
